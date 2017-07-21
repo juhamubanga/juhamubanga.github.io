@@ -1,2 +1,3 @@
-# showcase
-# this is for testing site editing functionality via prose.io
+# Showcase
+This is for testing site editing functionality via prose.io
+So far haven't figured out a way to publish a website through github...
