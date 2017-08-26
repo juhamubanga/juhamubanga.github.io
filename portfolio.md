@@ -5,7 +5,7 @@ Due to the nature of most of my professional work - internal systems for public 
 ### Payroll System | 02 / 2011 - 10 / 2016
 Major version development of a Payroll and employee HR information system for large municipalities.
 #### Responsibilities
-User Research, UX Design, Non-functional Requirements Definition, Functional Specification reviews, Prototyping, Front-End development support
+User research, UX design, non-functional requirements definition, functional specification reviews, prototyping, front-end development support
 #### Deliverables
 - UX Guideline
 - Usability Requirements
@@ -14,13 +14,37 @@ User Research, UX Design, Non-functional Requirements Definition, Functional Spe
 - UI View Descriptions
 - UI Prototype (HTML5/CSS3 + AngularJS)
 
-### Customer Information System | 08 / 2011 - 11 / 2012
-Major version development of a Customer information System for social offices at Helsinki city.
+### Customer Information System | 06-11 / 2011
+Major version development of a customer information system for social offices at Helsinki city.
 #### Responsibilities
-Requirements analysis workshops facilitation, UX Design
+Requirements analysis workshops facilitation, UX design
 #### Deliverables
 - Workshop Documentation
 - Wireframes
-- Layouts
+- Layout images
 
+### Education Management System | 01-03 / 2011
+Concept design for a major version development of an education management system for high schools and vocational training institutions in Finland.
+#### Responsibilities
+Requirement analysis workshop facilitation, concept design, protyping, UX design
+#### Deliverables
+- Workshop documentation
+- Concept visualisation
+- Prototype (Axure)
+- UX Guideline
 
+### Point-of-sales System | 06-09 / 2008
+New custom point-of-sales system development.
+#### Responsibilities
+User research (on-site task analysis, prototype usability tests), UX design, prototyping, specifications co-authoring
+#### Deliverables
+- User research results presentation
+- UX Guideline
+- UI specifications (Compuware Optimal Trace)
+
+### Member register system | 01-03 / 2008
+New custom member register system development for the Evangelich Lutheran Church of Finland.
+#### Responsibilities
+UX design
+#### Deliverables
+- UX Guideline
